@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello!
+
+I am a Data Science student at Concordia University in the Data Science Diploma program.
+
+Here are some of the things I have worked on that I think are cool.
+
+First, I coded a MNIST solution that achieved 92.5% accuracy without the need for any tensor flow - which I think is pretty neat.
+
+...
 
 <!--
 **Bruno-cj/Bruno-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
