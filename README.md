@@ -4,7 +4,7 @@ I am a Data Science student at Concordia University in the Data Science Diploma 
 
 Here are some of the things I have worked on that I think are cool.
 
-First, I coded a MNIST solution that achieved 92.5% accuracy without the need for any tensor flow - which I think is pretty neat.
+First, I coded a MNIST solution that achieved 92.6% accuracy without the need for any tensor flow - which I think is pretty neat.
 
 ...
 
