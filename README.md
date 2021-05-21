@@ -1,11 +1,14 @@
-### Hello!
+### Welcome to Bruno Ugolini's Github page!
 
-I am a Data Science student at Concordia University in the Data Science Diploma program.
+I am a Data Scientist recently graduated from the Data Science Diploma program at Concordia University.
 
-Here are some of the things I have worked on that I think are cool.
+I put a lot of effort into my Final Project to showcase the type of analytical work I enjoy doing. Please [check it out here!](https://github.com/Bruno-cj/Final_Project) (I also made a [video](https://drive.google.com/file/d/16a48c6xCm47fHgQGPWE0EGm3IE5DC4qf/view?usp=sharing) of the final product if you're in a hurry)
 
+Much of my [professional career](https://www.linkedin.com/in/brunougolini/) has been in the early phases of technology development. That's probably where this penchant for original thinking was nurtured.
 
-...
+As I work on new projects, I shall be updating this page.
+
+Cheers and thanks for visiting!
 
 <!--
 **Bruno-cj/Bruno-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
